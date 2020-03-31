@@ -1,7 +1,6 @@
 # Cough-classification-coronavirus
 Applying A.I methods to predict the coronavirus infection using sound of cough
 
-# working on the model part
 
 ### Papers, research and study
 
