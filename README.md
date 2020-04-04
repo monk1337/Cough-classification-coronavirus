@@ -20,3 +20,6 @@ Applying A.I methods to predict the coronavirus infection using sound of cough
 ##### Optimum Features Computation Using Genetic Algorithm for Wet and Dry Cough Classification
 
  [ https://ieeexplore.ieee.org/document/8534913/ ]
+ 
+
+#If you are a researchers in deep learning or speech, audio mix please join us
