@@ -22,4 +22,4 @@ Applying A.I methods to predict the coronavirus infection using sound of cough
  [ https://ieeexplore.ieee.org/document/8534913/ ]
  
 
-#If you are a researchers in deep learning or speech, audio mix please join us
+### If you are a researchers in deep learning or speech, audio mix please join us
